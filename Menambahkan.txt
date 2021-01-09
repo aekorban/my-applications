@@ -1,5 +1,11 @@
-file ini ditambahkan dari orang kedua
+
+
+
+
+
+file ini ditambahkan dari orang pertama
 nama :
- orang2
+ orang1
+
  
 terimakasih
